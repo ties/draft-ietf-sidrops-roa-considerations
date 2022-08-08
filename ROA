@@ -54,20 +54,20 @@
 <country>China</country> </postal> <email>gggeng@jnu.edu.cn</email> </address> 
 </author>
 
-   <author	fullname="Ties de Kock" initials="T." surname="Kock" >
-	  <organization>RIPE NCC</organization>
-	  <address>
+   <author fullname="Ties de Kock" initials="T." surname="de Kock" >
+    <organization>RIPE NCC</organization>
+    <address>
         <postal>
-          <street>XXX</street>
-          <city>XXX</city>
-          <country>XXX</country>
+          <street>Stationsplein 11</street>
+          <city>Amsterdam</city>
+          <country>The Netherlands</country>
         </postal>
-	  <email>tdekock@ripe.net</email>
-	  </address>
-	</author>
+    <email>tdekock@ripe.net</email>
+    </address>
+  </author>
 
-	
-	
+
+
 
     <date month="July" year="2022"/>
 
